@@ -1,36 +1,36 @@
-# 👁️ THE POST-SILICON MANIFESTO | VISION 2100
+# 👁️ SİLİKON ÖTESİ MANİFESTO | VİZYON 2100
 
-## The Exodus from Silicon
+## Silikon'dan Çıkış (Exodus)
 
-The history of computation has been a journey through materials: from gears to vacuum tubes, to silicon. We are now at the precipice of the **Biological Exodus**. The physical constraints of electrons—heat, size, and quantum tunneling—are forcing intelligence to return to its most efficient host: **Living Systems**.
+Hesaplama tarihi, materyaller arasında bir yolculuk olmuştur: dişlilerden vakum tüplerine, oradan silikona. Şimdi ise **Biyolojik Çıkış**'ın eşiğindeyiz. Elektronların fiziksel kısıtlamaları —ısı, boyut ve kuantum tünelleme— zekayı en verimli konağına dönmeye zorluyor: **Canlı Sistemler**.
 
-### 🏛️ The Three Pillars of Bio-Sovereignty
+### 🏛️ Biyo-Egemenliğin Üç Sütunu
 
-1.  **Molecular Transcendence:** Moving data storage from volatile magnetic states to the molecular stability of DNA. Intelligence will no longer be something we *power*, but something that *exists* in the substrate of reality.
-2.  **Cognitive Synthesis:** Transitioning from "Artificial Intelligence" to "Synthesized Life." We don't aim for human-like machines, but for machine-like organisms that handle our complexity with biological efficiency.
-3.  **The Sovereign Genetic Stack:** Controlling the tools of life is the ultimate form of sovereignty. Future nations will be defined by their ability to archive their culture and logic in the biological medium.
+1.  **Moleküler Aşkınlık:** Veri depolamayı uçucu manyetik durumlardan DNA'nın moleküler stabilitesine taşımak. Zeka artık *güç verdiğimiz* bir şey değil, gerçekliğin dokusunda *var olan* bir şey olacak.
+2.  **Bilişsel Sentez:** "Yapay Zeka"dan "Sentezlenmiş Yaşam"a geçiş. Amacımız insan benzeri makineler değil, karmaşıklığımızı biyolojik verimlilikle yöneten makine benzeri organizmalardır.
+3.  **Egemen Genetik Katman:** Yaşamın araçlarını kontrol etmek, egemenliğin en üst formudur. Geleceğin ulusları, kültürlerini ve mantıklarını biyolojik ortamda arşivleme yetenekleriyle tanımlanacaktır.
 
-### 🛣️ The Tactical Timeline (Century View)
+### 🛣️ Taktiksel Zaman Çizelgesi (Yüzyıllık Görünüm)
 
 ```mermaid
 timeline
-    title 100-Year Bio-Digital Roadmap
-    2025 - 2030 : TRL Analysis & Benchmarking : Hybrid Silicon-Bio Systems (Co-processors) : DNA Cold Storage Pilot
-    2030 - 2050 : Organoid Intelligence (OI) : Wetware OS V1 : Commercial DNA Clouds : In-vivo Diagnostics
-    2050 - 2075 : Sovereign Bio-Stacks : Autonomous Self-Repairing Harware : Post-Silicon Industrial Revolution
-    2075 - 2100 : The Bio-Digital Convergence : Planetary-scale Biological Computation : Trans-human Data Integration
+    title 100 Yıllık Biyo-Dijital Yol Haritası
+    2025 - 2030 : TRL Analizi ve Kıyaslama : Hibrit Silikon-Biyo Sistemler (Ek İşlemciler) : DNA Soğuk Depolama Pilotu
+    2030 - 2050 : Organoid Zekası (OI) : Wetware İşletim Sistemi V1 : Ticari DNA Bulutları : Vücut İçi Teşhisler
+    2050 - 2075 : Egemen Biyo-Katmanlar : Otonom Kendi Kendini Onaran Donanım : Silikon Ötesi Endüstri Devrimi
+    2075 - 2100 : Biyo-Dijital Yakınsama : Gezegen Ölçeğinde Biyolojik Hesaplama : Trans-human Veri Entegrasyonu
 ```
 
 ---
 
-## 🔬 Core Strategic Domains
+## 🔬 Temel Stratejik Alanlar
 
-### 1. Wetware Operating Systems (WOS)
-Just as Windows and Linux manage silicon, the WOS will manage cellular metabolic pathways. We are theorizing a system where "Kernel" operations are performed via **CRISPR-Cas9** interrupts and memory management is handled by **Peptide Folding**.
+### 1. Wetware İşletim Sistemleri (WOS)
+Windows ve Linux'un silikonu yönettiği gibi, WOS da hücresel metabolik yolakları yönetecektir. "Kernel" operasyonlarının **CRISPR-Cas9** kesintileriyle (interrupts) gerçekleştirildiği ve bellek yönetiminin **Peptit Katlanması** ile sağlandığı bir sistem teorize ediyoruz.
 
-### 2. Biological Cloud Infrastructure
-Data centers will evolve from heat-producing warehouses into self-cooling, nutrient-sustained "Algae Pools" or "DNA Vaults." This marks the end of the energy-crisis for global data.
+### 2. Biyolojik Bulut Altyapısı
+Veri merkezleri ısı üreten depolardan; kendi kendini soğutan, besin maddeleriyle sürdürülen "Alg Havuzları" veya "DNA Kasaları"na evrilecektir. Bu, küresel veride enerji krizinin sonu anlamına gelir.
 
 ---
 
-*"We do not predict the future; we code it into the very cells of existence."*
+*"Geleceği tahmin etmiyoruz; onu var oluşun en temel hücrelerine kodluyoruz."*
