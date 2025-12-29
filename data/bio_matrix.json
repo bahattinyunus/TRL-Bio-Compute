@@ -1,37 +1,107 @@
 {
   "last_updated": "2025-12-29",
+  "project_status": "Expanding Content",
   "technologies": [
     {
       "name": "DNA Data Storage",
-      "method": "Synthetic DNA Synthesis",
+      "method": "Synthetic DNA Synthesis (Phosphoramidite chemistry)",
       "trl_level": 5,
       "strategic_focus": "Archival Data, Infinite Longevity",
+      "bottlenecks": [
+        "Synthesis cost",
+        "Latency in retrieval",
+        "Erroneous sequencing"
+      ],
       "status": "Prototype",
-      "key_players": ["Microsoft", "Twist Bioscience", "Illumina"]
+      "key_players": [
+        "Microsoft",
+        "Twist Bioscience",
+        "Illumina",
+        "DNA Data Storage Alliance"
+      ]
     },
     {
       "name": "Neuromorphic Chips",
-      "method": "Spiking Neural Networks",
+      "method": "Asynchronous Spiking Neural Networks (SNN)",
       "trl_level": 7,
       "strategic_focus": "Edge AI, Energy Efficiency",
+      "bottlenecks": [
+        "Software stack maturity",
+        "On-chip learning constraints"
+      ],
       "status": "Pilot Application",
-      "key_players": ["Intel (Loihi)", "IBM (TrueNorth)"]
+      "key_players": [
+        "Intel (Loihi 2)",
+        "IBM (TrueNorth)",
+        "BrainChip (Akida)"
+      ]
     },
     {
       "name": "Wetware Computing",
-      "method": "Organoid Intelligence (OI)",
+      "method": "Brain-on-a-chip / Organoid Intelligence (OI)",
       "trl_level": 3,
       "strategic_focus": "Biological Neuron Processing",
+      "bottlenecks": [
+        "Liveliness maintenance",
+        "Signal noise",
+        "Ethical consensus"
+      ],
       "status": "Research",
-      "key_players": ["Johns Hopkins University", "Cortical Labs"]
+      "key_players": [
+        "Johns Hopkins University",
+        "Cortical Labs",
+        "FinalSpark"
+      ]
     },
     {
       "name": "Synthetic Biology",
-      "method": "Genetic Logic Gates",
+      "method": "CRISPR-based Genetic Logic Gates",
       "trl_level": 4,
       "strategic_focus": "Intracellular Decision Mechanisms",
+      "bottlenecks": [
+        "Crosstalk between circuits",
+        "Metabolic burden on host"
+      ],
       "status": "Lab",
-      "key_players": ["MIT", "Synbio Technologies"]
+      "key_players": [
+        "MIT (Synbio Center)",
+        "Synbio Technologies",
+        "Ginkgo Bioworks"
+      ]
+    },
+    {
+      "name": "Peptide Computing",
+      "method": "Molecular recognition and self-assembly",
+      "trl_level": 2,
+      "strategic_focus": "Biocompatible computation",
+      "bottlenecks": [
+        "Low scalability",
+        "Programming complexity"
+      ],
+      "status": "Conceptual",
+      "key_players": [
+        "University of Manchester",
+        "Max Planck Institute"
+      ]
+    },
+    {
+      "name": "Bacteriophage Logic",
+      "method": "Viral vectors as signal carriers",
+      "trl_level": 3,
+      "strategic_focus": "Targeted therapeutic computation",
+      "bottlenecks": [
+        "Immunogenicity",
+        "Host specificity"
+      ],
+      "status": "Research",
+      "key_players": [
+        "Stanford University",
+        "UCSF"
+      ]
     }
-  ]
+  ],
+  "global_metrics": {
+    "sector_average_trl": 4.0,
+    "high_risk_tech_count": 3
+  }
 }
